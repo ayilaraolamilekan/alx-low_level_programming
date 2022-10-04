@@ -92,7 +92,7 @@ int print_words(int *pos, char **m, char *str, int words)
 		int p2 = *(pos + b1 + 1);
 		int sz = p2 - p1 + 2;
 		*(m + b) = (char *)malloc(sizeof(char) * (sz));
-		if (*(m + b) == NULL)
+		if (*(m + b +1)i == NULL)
 		{
 			for (b = b - 1; b >= 0; b--)
 				free(*(m + b));
