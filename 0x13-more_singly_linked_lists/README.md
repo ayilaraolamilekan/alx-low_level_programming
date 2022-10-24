@@ -36,6 +36,3 @@ gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
 ## More Info
 All files is formatted Betty style and checked using betty-style.pl and betty-doc.pl
 All header files is guarded
-
-## Author
-Heindrick Cheung
