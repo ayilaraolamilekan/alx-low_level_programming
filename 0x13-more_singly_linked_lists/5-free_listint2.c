@@ -2,7 +2,7 @@
 
 /**
  * free_listint2 - function with one argument
- * @head: pointer to head pointer of list
+ * @head: pointer to head pointer of lists
  *
  * Description: frees a list
  * Return: na

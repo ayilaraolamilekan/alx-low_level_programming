@@ -4,7 +4,7 @@
  * print_listint - function with one argument
  * @h: pointer to struct
  *
- * Description: prints all the elements of a list
+ * Description: prints all the elements of a lists
  * Return: number of nodes
  */
 size_t print_listint(const listint_t *h)

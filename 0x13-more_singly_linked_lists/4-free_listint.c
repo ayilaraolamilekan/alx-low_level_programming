@@ -4,7 +4,7 @@
  * free_listint - function with one argument
  * @head: pointer to node
  *
- * Description: frees a list
+ * Description: frees a lists
  * Return: void
  */
 void free_listint(listint_t *head)

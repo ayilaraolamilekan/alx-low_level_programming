@@ -2,7 +2,7 @@
 
 /**
  * add_nodeint_end - function with two arguments
- * @head: double pointer to head of first linked list
+ * @head: double pointer to head of first linked lists
  * @n: integer value of data in node
  *
  * Description: add a new node at the end of linked list

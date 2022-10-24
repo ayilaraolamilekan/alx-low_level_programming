@@ -2,7 +2,7 @@
 
 /**
  * sum_listint - function with one argument
- * @head: pointer to first node of linked list
+ * @head: pointer to first node of linked lists
  *
  * Description: returns the sum of all the data(n)
  * Return: sum or 0 if empty

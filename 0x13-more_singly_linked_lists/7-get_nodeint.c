@@ -2,7 +2,7 @@
 
 /**
  * get_nodeint_at_index - function with two arguments
- * @head: pointer to first node of linked list
+ * @head: pointer to first node of linked lists
  * @index: nth node
  *
  * Description: returns the nth node of linked list

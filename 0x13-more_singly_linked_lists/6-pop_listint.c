@@ -2,7 +2,7 @@
 
 /**
  * pop_listint - function with one argument
- * @head: pointer to head pointer of list
+ * @head: pointer to head pointer of lists
  *
  * Description: deletes the head node of linked list
  * Return: head node's data (n)

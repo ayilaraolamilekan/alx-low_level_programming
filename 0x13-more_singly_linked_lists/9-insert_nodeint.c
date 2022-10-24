@@ -2,7 +2,7 @@
 
 /**
  * insert_nodeint_at_index - function with 3 arguments
- * @head: pointer to head pointer of first node in linked list
+ * @head: pointer to head pointer of first node in linked lists
  * @idx: index of list
  * @n: value integer
  *
